@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I work at the intersection of agricultural and forest remote sensing and geospatial data science, with a focus on making lidar and satellite-derived structure data trustworthy enough to build decisions on. My background runs from a M.S. thesis assessing the impact of whole orchard recycling and almond biochar compost on the growth & performance of young almond trees, a project evaluating canopy-height products, and a NASA DEVELOP project fusing Sentinel-1/2, GEDI, and 3DEP for agroforestry biomass estimation using machine learning.\nMy current focus is lidar production capability — PDAL-based ground classification, height normalization, and DTM/DSM/CHM pipelines validated against the USGS Lidar Base Specification and ASPRS Positional Accuracy Standards (Ed. 2, v2) — built in an open-source stack (PDAL, GDAL, lidR) that maps onto proprietary tools like TerraScan and TerraSolid. I’m also developing spatial SQL and reproducible geospatial ML pipelines."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects will be added here as they are completed."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mashalle Olomi",
+    "section": "",
+    "text": "I work on measuring vegetation structure from multispectral imagery and lidar — canopy height, biomass, and carbon — across agricultural and forest landscapes. My background spans a M.S. thesis assessing the impact of whole orchard recycling and almond biochar compost on the growth & performance of young almond trees, evaluation of canopy-height products, NASA DEVELOP project on above-ground biomass estimation using machine learning for agroforestry systems in the Midwest, and ongoing lidar production and spatial data analysis projects.\nSee Projects for reproducible pipelines and analyses, or About for more."
+  },
+  {
+    "objectID": "index.html#remote-sensing-scientist",
+    "href": "index.html#remote-sensing-scientist",
+    "title": "Mashalle Olomi",
+    "section": "",
+    "text": "I work on measuring vegetation structure from multispectral imagery and lidar — canopy height, biomass, and carbon — across agricultural and forest landscapes. My background spans a M.S. thesis assessing the impact of whole orchard recycling and almond biochar compost on the growth & performance of young almond trees, evaluation of canopy-height products, NASA DEVELOP project on above-ground biomass estimation using machine learning for agroforestry systems in the Midwest, and ongoing lidar production and spatial data analysis projects.\nSee Projects for reproducible pipelines and analyses, or About for more."
+  }
+]
