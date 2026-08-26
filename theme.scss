@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+$primary: #2d6a4f;
+$body-font: "Inter", sans-serif;
+$headings-font-family: "Fraunces", serif;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Fraunces:wght@500;600;700&display=swap');
+
+body {
+  font-family: $body-font;
+}
+
+h1, h2, h3, h4, .navbar-title {
+  font-family: $headings-font-family;
+  font-weight: 600;
+}

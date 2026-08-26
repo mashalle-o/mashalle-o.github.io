@@ -1,0 +1,12 @@
+---
+title: "Mashalle Olomi"
+---
+
+## Remote Sensing Scientist
+
+I work on measuring vegetation structure from multispectral imagery and lidar
+— canopy height, biomass, and carbon — across agricultural and forest
+landscapes. My background spans a M.S. thesis assessing the impact of whole orchard recycling and almond biochar compost on the growth & performance of young almond trees, evaluation of canopy-height products, NASA DEVELOP project on above-ground biomass estimation using machine learning for agroforestry systems in the Midwest, and ongoing lidar production and spatial data analysis projects.
+
+See [Projects](projects.qmd) for reproducible pipelines and analyses, or
+[About](about.qmd) for more.

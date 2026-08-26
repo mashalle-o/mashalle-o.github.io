@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+I work at the intersection of agricultural and forest remote sensing and
+geospatial data science, with a focus on making lidar and
+satellite-derived structure data trustworthy enough to build decisions on.
+My background runs from a M.S. thesis assessing the impact of whole orchard recycling and almond biochar compost on the growth & performance of young almond trees, a project evaluating canopy-height products, and a NASA DEVELOP project fusing Sentinel-1/2,
+GEDI, and 3DEP for agroforestry biomass estimation using machine learning.
+
+My current focus is lidar production capability — PDAL-based ground
+classification, height normalization, and DTM/DSM/CHM pipelines validated
+against the USGS Lidar Base Specification and ASPRS Positional Accuracy
+Standards (Ed. 2, v2) — built in an open-source stack (PDAL, GDAL, lidR)
+that maps onto proprietary tools like TerraScan and TerraSolid.
+I'm also developing spatial SQL and reproducible geospatial ML pipelines.
+

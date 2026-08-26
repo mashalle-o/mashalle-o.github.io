@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Mashalle Olomi"
+  description: "Remote sensing scientist — multispectral and lidar analysis of forest and agricultural plant growth & performance, canopy structure, and carbon estimation"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/mashalle-o
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mashalle-o-702558257
+
+format:
+  html:
+    theme:
+      - litera
+      - theme.scss
+    toc: true
+
+execute:
+  freeze: auto
